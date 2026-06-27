@@ -88,6 +88,7 @@ Proyek ini bertujuan untuk memetakan dan menganalisis persebaran vegetasi mangro
 1. I'zzuddiin, M., Alina, A. N., Mahardianti, M. A., Yahya, F., & Prabawa, S. E. (2025). Analisis Perubahan Indeks Kerapatan Vegetasi Mangrove Menggunakan Algoritma Normalized Difference Vegetation Index (NDVI) di Pantai Timur Surabaya Berbasis Sistem Informasi Geografis (SIG). *Jurnal Geodesi Undip*, 12(4), 21–32.
 2. Semedi, B., Marjono, M., Savitri, N. L. E., Hikmawati, V. F., Bayuaji, G. D. A. P., Syam's, N. D. S., & Diza, N. F. (2023). Pemanfaatan Google Earth Engine untuk Memantau Perubahan Luasan Hutan Mangrove di Probolinggo. *Journal of Fisheries and Marine Research*, 7(2), 79–87.
 3. Nurzihan, Y. M., Rinzani, A., Kamaluddin, M. R., Ridwana, R., & Somantri, L. (2023). Analisis Indeks Kerapatan Vegetasi di Desa Cihanjuang Rahayu Menggunakan Citra Satelit Sentinel-2A dengan Metode MSARVI. *Jurnal Pendidikan Geografi Undiksha*, 11(3), 223–233. https://doi.org/10.23887/jjpg.v11i3.66790
+4. Cardille, J. A., Crowley, M. A., Saah, D., & Clinton, N. E. (Eds.). (2024). Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications. Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-26588-4
 
 ---
 
