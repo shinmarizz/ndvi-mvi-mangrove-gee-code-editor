@@ -48,7 +48,6 @@ Proyek ini bertujuan untuk memetakan dan menganalisis persebaran vegetasi mangro
 ## 🖼️ Hasil Visualisasi
 
 ### Peta NDVI
-*(sisipkan gambar/screenshot hasil peta NDVI di sini)*
 ```
 ```
 
@@ -58,12 +57,10 @@ Proyek ini bertujuan untuk memetakan dan menganalisis persebaran vegetasi mangro
 ```
 
 ### Peta Persebaran Mangrove (Hasil Klasifikasi)
-*(sisipkan gambar/screenshot hasil klasifikasi akhir di sini)*
 ```
 ```
 
 ### Perbandingan Statistik
-*(opsional: tabel atau grafik luas area per kelas kerapatan mangrove)*
 
 ---
 
