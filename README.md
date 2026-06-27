@@ -1,6 +1,6 @@
 # ndvi-mvi-mangrove-gee-code-editor
 
-# Peta NDVI & MVI Persebaran Mangrove di Pesisir Kabupaten Karawang Menggunakan Google Earth Engine
+# Peta NDVI & MVI Persebaran Mangrove di Pesisir Kabupaten Karawang Menggunakan Google Earth Engine Tahun 2017
 
 ## 📋 Deskripsi Proyek
 
