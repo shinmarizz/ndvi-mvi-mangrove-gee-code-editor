@@ -48,21 +48,19 @@ Proyek ini bertujuan untuk memetakan dan menganalisis persebaran vegetasi mangro
 ## 🖼️ Hasil Visualisasi
 
 ### Peta NDVI
-```
-```
+<img width="959" height="458" alt="image" src="https://github.com/user-attachments/assets/86f25f29-c6c9-42e2-843a-1e288153b176" />
+
+### Peta Klasifikasi NDVI
+<img width="959" height="454" alt="image" src="https://github.com/user-attachments/assets/5b916197-3a5a-45ef-ba16-ad9b8c29d1f1" />
+
 
 ### Peta MVI
-*(sisipkan gambar/screenshot hasil peta MVI di sini)*
-```
-```
+<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/1389d3f2-6e45-4021-97d4-dd9718de89c4" />
 
 ### Peta Persebaran Mangrove (Hasil Klasifikasi)
-```
-```
+<img width="956" height="475" alt="image" src="https://github.com/user-attachments/assets/82d0c1b6-c789-4664-a85d-ecd417ab6714" />
 
-### Perbandingan Statistik
 
----
 
 ## 📁 Struktur Repository
 
